@@ -1,0 +1,54 @@
+{
+    "classes": [
+        "warrior",
+        "mage",
+        "priest",
+        "thief"
+    ],
+
+    "powers": {
+        "warrior": [
+            {
+                "name": "Marteau machoire",
+                "damage": 40
+            },
+            {
+                "name": "Crane fracassant",
+                "damage": 30
+            }
+        ],
+
+        "mage": [
+            {
+                "name": "Eclair de genie",
+                "damage": 40
+            },
+            {
+                "name": "Eclair de givre",
+                "damage": 30
+            }
+        ],
+
+        "priest": [
+            {
+                "name": "Exorcisme de l'ange",
+                "damage": 40
+            },
+            {
+                "name": "Absolution des peches",
+                "damage": 30
+            }
+        ],
+
+        "thief": [
+            {
+                "name": "Sournoiserie",
+                "damage": 40
+            },
+            {
+                "name": "Pique pocket",
+                "damage": 30
+            }
+        ]
+    }
+}

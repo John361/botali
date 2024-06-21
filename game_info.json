@@ -1,0 +1,11 @@
+{
+    "player": {
+        "class": "",
+        "life": 100
+    },
+
+    "bot": {
+        "class": "",
+        "life": 100
+    }
+}
